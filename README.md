@@ -17,7 +17,7 @@ I am a passionate software developer with over 8 years of experience in designin
   <img src="https://github-readme-stats-five-beta-35.vercel.app/api?username=MAghazade&show_icons=true&count_private=true&include_all_commits=true&theme=tokyonight" />
 </section>
 <br>
-<h2 align="left"> Contact</h2>
+<h2 align="left"> Connect with me</h2>
 <p align="left">
   <a href="https://stackoverflow.com/users/10546136">
     <img src="https://go-skill-icons.vercel.app/api/icons?i=stackoverflow&theme=light"
